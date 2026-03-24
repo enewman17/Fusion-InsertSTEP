@@ -1,0 +1,12 @@
+{
+	"autodeskProduct":	"Fusion",
+	"type":	"addin",
+	"id":	"88f57934-8c8a-4d2d-8381-67890abcdefg",
+	"author":	"Erin Newman",
+	"description":	{"":	"Import a step file directly into the current design."},
+	"version":	"1.0",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true,
+	"iconFilename":	"AddInIcon.svg"
+}
